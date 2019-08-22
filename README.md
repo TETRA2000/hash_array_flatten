@@ -1,4 +1,4 @@
-# HashFlatten
+# HashArrayFlatten
 
 Flatten nested hash with arrays into single level.
 
